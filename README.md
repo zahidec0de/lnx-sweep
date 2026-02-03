@@ -152,9 +152,8 @@ Get a machine-readable summary:
 
 ## Supported Distributions
 
-- Debian and Debian-based systems
-- Ubuntu, Linux Mint
-- Kali, Parrot
+Debian and Debian-based systems
+
 
 
 ## License
