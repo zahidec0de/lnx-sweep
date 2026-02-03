@@ -39,7 +39,7 @@ cd lnx-sweep
 chmod +x lnx-sweep.sh
 ```
 
-### 3) Run it
+### 3) Run
 
 ```bash
 sudo ./lnx-sweep.sh
