@@ -7,14 +7,14 @@
 ![Platforms](https://img.shields.io/badge/platforms-Debian%20|%20Ubuntu%20|%20Mint%20|%20Kali%20|%20Parrot-6a737d)
 ![Safety](https://img.shields.io/badge/safety-preview%20first-brightgreen)
 
-</div>
-
-![Lnx-Sweep Start](lnx-sweep-start.png)
-
 <div align="center">
 Lnx-Sweep is a safe, preview-first cleanup utility for Debian-based Linux systems.  
 It is designed to be explicit, transparent, and reliable when removing files.
 </div>
+
+</div>
+
+![Lnx-Sweep Start](lnx-sweep-start.png)
 
 <br>
 
