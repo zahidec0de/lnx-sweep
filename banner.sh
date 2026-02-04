@@ -1,9 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Banner rendering for Lnx-Sweep.
-# Depends on color variables, UI_WIDTH, repeat_char, and center_text.
-
 print_banner() {
   local subtitle="Safe Linux Cleanup Utility"
   local inner_width=$((UI_WIDTH - 2))
